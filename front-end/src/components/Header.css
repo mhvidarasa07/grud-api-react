@@ -1,0 +1,15 @@
+.header {
+    padding: 50px;
+  }
+  
+  .header h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+    color: #6C63FF;
+  }
+  
+  .header p {
+    font-size: 18px;
+    color: #ccc;
+  }
+  
